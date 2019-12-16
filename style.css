@@ -4,7 +4,7 @@ body {
     margin: 30px auto;
   }
   
-  #plan1{
+  #front{
     background-color: #ff0202;
     width: 300px;
     height: 500px;
@@ -12,7 +12,7 @@ body {
     position: absolute;
     z-index:0;
 }
-#plan2{
+#back{
     background-color: #632f2f;
     width: 300px;
     height: 500px;
